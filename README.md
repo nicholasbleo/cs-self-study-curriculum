@@ -6,4 +6,4 @@ I've based this curriculum on the guide provided on the [teachyourselfcs.com](ht
 
 In the repo, there is a directory for each major subject (e.g. Programming, Math for CS), and within each directory are sub-directories that contain demo code and notes for modules of a course in that subject. The subjects and the respective courses are:
 
-1. Programming - Structure and Interpretation of Computer Programs (M.I.T. Open Courseware Library)
+1. Programming - [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) (M.I.T. Open Courseware Library)
